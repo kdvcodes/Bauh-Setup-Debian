@@ -10,7 +10,7 @@
     sudo apt install flatpak 
     sudo apt install python3 
     sudo apt install python3-pip  
-    sudo apt install python-requests  
+    sudo apt install python3-requests  
     sudo apt install python3-yaml  
     sudo apt install qt5dxcb-plugin  
     sudo apt install python3-venv  
