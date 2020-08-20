@@ -12,7 +12,7 @@
     sudo apt install python3-pip
     sudo apt install python3-requests
     sudo apt install python3-yaml
-    sudo apt install qt5dxcb-plugin
+    sudo apt install qt5dxcb-plugin libqt5svg5 python3-pyqt5.qtsvg
     sudo apt install python3-venv
     sudo apt install libappindicator _(for tray icon, might not be needed on some systems)_
 
