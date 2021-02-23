@@ -36,8 +36,8 @@ NOTE: This is an instructional page to set up Bauh on most Debian-based systems.
         Type=Application
         Name=bauh
         Comment=Install and remove applications ( AppImage, AUR, Flatpak, Snap )
-        Exec=/home/$USER/bauh_env/bin/bauh
-        Icon=/home/$USER/bauh_env/lib/python3.7/site-packages/bauh/view/resources/img/logo.svg
+        Exec=/home/$USER/Softwares/bauh_env/bin/bauh
+        Icon=/home/$USER/Softwares/bauh_env/lib/python3.9/site-packages/bauh/view/resources/img/logo.svg
 
 ### **5. Now we add AppImage support for bauh**
 
