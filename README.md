@@ -1,5 +1,7 @@
 # Steps to set up bauh on a Debian-base Linux system
 
+NOTE: This is an instructional page to set up Bauh on most Debian-based systems. Original project is at https://github.com/vinifmor/bauh.
+
 ### **1. Create folder to set up bauh in**  
 
     mkdir ~/Softwares
