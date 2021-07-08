@@ -58,7 +58,7 @@ NOTE: This is an instructional page to set up Bauh on most Debian-based systems.
 ## Note:
 - To update bauh
 
-        ~/Softwares/bauh_env/bin/pip3 install --upgrade bauh
+        ~/Softwares/bauh_env/bin/pip3 install --upgrade pip && ~/Softwares/bauh_env/bin/pip3 install --upgrade bauh
 
 - To remove bauh
 
