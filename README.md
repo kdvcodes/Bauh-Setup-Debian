@@ -50,10 +50,8 @@ NOTE: This is an instructional page to set up Bauh on most Debian-based systems.
 
     ~/Softwares/bauh_env/bin/pip3 install beautifulsoup4
     ~/Softwares/bauh_env/bin/pip3 install lxml
-    sudo apt install npm
-    sudo npm install electron -g
-    sudo apt install nodejs
-    sudo npm install nativefier -g
+    npm install electron -g
+    npm install nativefier -g
 
 ## Note:
 - To update bauh
